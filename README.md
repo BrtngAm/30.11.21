@@ -1,2 +1,2 @@
 # 30.11.21
-exoerimental file for an university course 
+experimental file for an university course 
